@@ -22,7 +22,7 @@ namespace ConsoleApp5
                 Console.WriteLine("----------------------");
                 Console.WriteLine(y);
             }
-            else
+            else if (x == y)
             {
                 Console.WriteLine("----------------------");
                 Console.WriteLine("Obě čísla jsou stejně velká");
